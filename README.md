@@ -6,6 +6,11 @@
 
 ## 📖 Sobre o Projeto
 
+***🤝 Contribuições são bem-vindas!
+
+Este é um projeto open-source de terror psicológico feito com Three.js.
+Se você é desenvolvedor, artista 3D ou sound designer será muito bem-vindo.
+
 **Turno da Madrugada – BR-040** é um jogo de terror psicológico em primeira pessoa em desenvolvimento, com **Three.js**, ambientado em um posto de gasolina isolado na rodovia BR-040.
 
 Você assume o papel de um frentista trabalhando no turno da madrugada. O que começa como uma noite comum rapidamente se transforma em algo perturbador. Clientes estranhos, sons inexplicáveis, falhas de energia e uma constante sensação de estar sendo observado tornam cada minuto imprevisível.
