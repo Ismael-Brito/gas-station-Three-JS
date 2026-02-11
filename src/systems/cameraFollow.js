@@ -10,7 +10,7 @@ let currentHeight = 0;
 
 export function atualizarCamera() {
     const distancia = 200;  // Distância da câmera atrás do jogador
-    const altura = 300;      // Altura da câmera em relação ao jogador
+    const altura = 350;      // Altura da câmera em relação ao jogador
 
     // Queremos que a câmera fique atrás do jogador, com base na rotação Y dele
     const rotY = player.rotation.y;

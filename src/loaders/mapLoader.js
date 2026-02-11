@@ -34,6 +34,10 @@ export function carregarMapa() {
 
         // Limites do mapa
         const box = new THREE.Box3().setFromObject(model);
+
+        const BoxHelper = new THREE.Box3Helper(box, 0xffff00);
+        scene.add(BoxHelper);
+
         const min = box.min;
         const max = box.max;
 
