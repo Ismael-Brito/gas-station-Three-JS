@@ -74,7 +74,7 @@ O foco do jogo está na **atmosfera**, **imersão**, **tensão crescente** e **n
 ### 1️⃣ Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/turno-da-madrugada-br040.git
+git clone https://github.com/Ismael-Brito/gas-station-Three-JS.git
 
 ```
 
@@ -82,7 +82,7 @@ git clone https://github.com/seu-usuario/turno-da-madrugada-br040.git
 
 ```bash
 
-cd turno-da-madrugada-br040
+cd gas-station-Three-JS
 
 ```
 
