@@ -6,7 +6,7 @@
 
 ## 📖 Sobre o Projeto
 
-***🤝 Contribuições são bem-vindas!
+**🤝 Contribuições são bem-vindas!**
 
 Este é um projeto open-source de terror psicológico feito com Three.js.
 Se você é desenvolvedor, artista 3D ou sound designer será muito bem-vindo.
