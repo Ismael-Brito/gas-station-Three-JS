@@ -35,4 +35,8 @@ warnings.log
 script.js
 
 # Pastas temp
-models
+models/js
+models/ifc
+models/gltf
+models/Gas_station
+models/nathan

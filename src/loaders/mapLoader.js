@@ -11,7 +11,7 @@ export let limite = {};
 
 export function carregarMapa() {
 
-    loader.load('models/Gas_station/result.gltf', (gltf) => {
+    loader.load('models/import/Gas_station/result.gltf', (gltf) => {
 
         const model = gltf.scene;
         scene.add(model);
