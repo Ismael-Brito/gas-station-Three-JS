@@ -22,7 +22,7 @@ carregarPlayer((model) => {
 
 export function moverPlayer(delta, keys) {
 
-    const moveSpeed = 300;
+    const moveSpeed = 5;
     direction.set(0, 0, 0);
 
     const forward = new THREE.Vector3(Math.sin(yaw), 0, Math.cos(yaw)).normalize();

@@ -11,4 +11,4 @@ export const camera = new THREE.PerspectiveCamera(
 );
 
 // Posição inicial da câmera
-camera.position.set(0, 100, 200);
+camera.position.set(0, 10, 20);
